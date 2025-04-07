@@ -7,7 +7,8 @@
 This project predicts whether a passenger survived the Titanic disaster using machine‑learning classifiers.  
 I explore Kaggle’s `train.csv`, clean and engineer features, then compare three models—Decision Tree, Logistic Regression, and Random Forest.  
 Random Forest delivers the best accuracy.
-
+My notebook file https://github.com/HuzaifaUCMO/ml_classification_huzaifanadeem/blob/main/classification_huzaifanadeem.ipynb
+My peer review https://github.com/HuzaifaUCMO/ml_classification_huzaifanadeem/blob/main/peereview.md
 ---
 
 ## Files
